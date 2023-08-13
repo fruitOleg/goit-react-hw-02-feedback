@@ -12,4 +12,8 @@ export const Button = styled.button`
   border: 1px;
   border-radius: 8px;
   box-shadow: 3px 3px 8px #7a8999;
+
+  &:hover {
+    background-color: lightgrey;
+  }
 `;
